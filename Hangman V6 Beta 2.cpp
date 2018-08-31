@@ -19,7 +19,7 @@
                       To come: Version 6: Database with words.
                       
                       Version 6 Beta: Implemented Word Database. Randomisation next.
-                      Version 6 Release: Finished game. Enjoy!
+                      Version 6 Release: Finished game. UNCRASHABLE. Enjoy!
                                 _______
                                 |     |
                                 |     0
